@@ -1,0 +1,6 @@
+---
+
+- name: roles for all hosts
+  hosts: all
+  roles:
+    - { role: base, tags: [default,packages,base]}
