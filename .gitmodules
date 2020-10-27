@@ -1,3 +1,9 @@
 [submodule "roles/base"]
 	path = roles/base
-	url = https://github.com/roles-ansible/role-base.git
+	url = https://github.com/roles-ansible/ansible_role_base.git
+[submodule "roles/ranger"]
+	path = roles/ranger
+	url = https://github.com/roles-ansible/ansible_role_ranger.git
+[submodule "roles/bat"]
+	path = roles/bat
+	url = https://github.com/gantsign/ansible_role_bat.git
