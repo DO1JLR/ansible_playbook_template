@@ -7,3 +7,6 @@
 [submodule "roles/bat"]
 	path = roles/bat
 	url = https://github.com/gantsign/ansible_role_bat.git
+[submodule "roles/dotfiles"]
+	path = roles/dotfiles
+	url = https://github.com/chaos-bodensee/role_dotfiles.git
