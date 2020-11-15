@@ -1,4 +1,4 @@
-[![MIT License](https://raw.githubusercontent.com/DO1JLR/ansible_playbook_template/master/.github/license.svg?sanitize=true)](https://github.com/DO1JLR/ansible_playbook_template/blob/master/LICENSE)
+[![MIT License](https://raw.githubusercontent.com/DO1JLR/ansible_playbook_template/main/.github/license.svg?sanitize=true)](https://github.com/DO1JLR/ansible_playbook_template/blob/main/LICENSE)
 
 Ansible playbook to set up ...something
 =========================================
