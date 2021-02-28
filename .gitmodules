@@ -10,3 +10,6 @@
 [submodule "roles/dotfiles"]
 	path = roles/dotfiles
 	url = https://github.com/chaos-bodensee/role_dotfiles.git
+[submodule "roles/version"]
+	path = roles/version
+	url = https://github.com/roles-ansible/role_ansible-version.git
