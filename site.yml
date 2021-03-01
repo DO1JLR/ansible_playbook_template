@@ -2,7 +2,7 @@
 - name: local ansible versionscheck
   hosts: localhost
   roles:
-    - {role: version, tags: always}
+    - {role: version, tags: always, gather_facts: false}
 
 - name: basic setup on all hosts
   hosts: all
